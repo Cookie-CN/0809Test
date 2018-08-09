@@ -1,0 +1,11 @@
+F:\个人\Demos\Demos\Demo01\bin\Debug\Demo01.exe.config
+F:\个人\Demos\Demos\Demo01\bin\Debug\Demo01.exe
+F:\个人\Demos\Demos\Demo01\bin\Debug\Demo01.pdb
+F:\个人\Demos\Demos\Demo01\obj\Debug\Demo01.csprojResolveAssemblyReference.cache
+F:\个人\Demos\Demos\Demo01\obj\Debug\Demo01.exe
+F:\个人\Demos\Demos\Demo01\obj\Debug\Demo01.pdb
+D:\GitTest4\Demos\Demo01\bin\Debug\Demo01.exe.config
+D:\GitTest4\Demos\Demo01\obj\Debug\Demo01.exe
+D:\GitTest4\Demos\Demo01\obj\Debug\Demo01.pdb
+D:\GitTest4\Demos\Demo01\bin\Debug\Demo01.exe
+D:\GitTest4\Demos\Demo01\bin\Debug\Demo01.pdb
